@@ -25,6 +25,14 @@ Players can play the acutal game in real-time.
 
 ![](images/game.png)
 
+Landing page:
+
+![](images/landing.png)
+
+Profile page:
+
+![](images/profile.png)
+
 ## Main Idea
 
 Players can fly across the map simultaneously, while passing through quiz problems which we will call "checkpoints" for convenience. At each checkpoint, there are two distinct areas on the screen through which the players have to pass, each area indicating "yes" or "no". At the top of the screen, there will be a simple math statement, and the yes or no areas indicate the truth value of the statement. The players have to pass through the correct area, or else they'll lose the game. At the end of the map, there is a finishing line. The goal of this game is to reach the finishing line as quickly as possible, while correctly answering the math questions along the way.

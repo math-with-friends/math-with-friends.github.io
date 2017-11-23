@@ -9,6 +9,7 @@
 # About
 
 Math With Friends is an online game that makes learning math fun for students.
+Check out the github repository [here](https://github.com/math-with-friends/math-with-friends/).
 
 Players can join or create a lobby, which is a temporary place for players to gather before they start the game.
 

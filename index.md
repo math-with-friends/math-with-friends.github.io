@@ -135,6 +135,12 @@ As a result of the efforts put into Milestone 1, the following feats were accomp
 
 It is worth noting that we overshot our original goal of just creating the mock-up pages. Apart from the profile page, all of the other pages are capable of communicating with their respective data sources and render appropriate data.
 
+## Milestone 2
+
+As a result of the efforts put into Milestone 2, the following were accomplished.
+
+- Implemented user-profile page for user selection of icon.
+
 # Contact Us
 
 Il Ung Jeong: ilungj@hawaii.edu

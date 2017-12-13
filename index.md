@@ -137,7 +137,7 @@ It is worth noting that we overshot our original goal of just creating the mock-
 
 ## Milestone 2
 
-As a result of the efforts put into Milestone 2, the following were accomplished.
+As a result of the efforts put into Milestone 2, the following were accomplished:
 
 - Implemented user-profile page for user selection of icon.
 

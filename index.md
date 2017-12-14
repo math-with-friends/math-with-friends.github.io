@@ -22,7 +22,10 @@ Also, the population of the users should not be limited to students at the Unive
 at Manoa, but eventually include students from many different schools around the state.
 
 Check out the demo of the application [here](http://mathwithfriends.meteorapp.com/).
+
 Check out the current project page [here](https://github.com/math-with-friends/math-with-friends/projects/2).
+
+Check out our organization [here](https://github.com/math-with-friends/).
 
 # User Guide
 
@@ -60,7 +63,7 @@ in that lobby. You can also make a brand new lobby by clicking on the "Create lo
 
 This is the lobby page. Nobody else can see this particular screen unless you are one of the players
 joined to that specific lobby. On the top you can see a list of players. Press on the "Ready" button
-to indicate that you are ready to play. When ever player has done this, the game will start.
+to indicate that you are ready to play. When every player has done this, the game will start.
 Otherwise, press on the "Exit" button to return to the channel.
 
 ![](images/7.png)
@@ -214,5 +217,7 @@ As a result of the efforts put into Milestone 2, the following were accomplished
 # Contact Us
 
 Il Ung Jeong: ilungj@hawaii.edu
+
 Robert Hynes: rhynes@hawaii.edu
+
 Cameron Simao: cksimao@hawaii.edu

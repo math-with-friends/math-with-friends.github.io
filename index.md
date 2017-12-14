@@ -1,15 +1,30 @@
 # Table of Contents
 
-* [About](#about)
-* [Installation](#installation)
-* [Application Design](#application-design)
+* [Overview](#overview)
+* [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
+* [Development Guide](#development-guide)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
-# About
+# Overview
 
-Math With Friends is an online game that makes learning math fun for students.
-Check out the github repository [here](https://github.com/math-with-friends/math-with-friends/).
+Math with Friends is an online game that makes learning math fun for students.
+
+For many students at University of Hawaii at Manoa, math is not their most favorite subject in school.
+For example, you can hear the students grumbling when you pass by the school's algorithm classes. The intent of
+Math with Friends is to motivate these students to enjoy learning math. It aims to give them better
+practice at math concepts, motivation, and the insight that even math can be sometimes fun.
+
+The scope of the problems given is restricted to math at the moment for simplicity's sake, but the vision
+is that we would extend Math with Friends in the future to encompass a variety of subjects offered in school.
+Also, the population of the users should not be limited to students at the University of Hawaii
+at Manoa, but eventually include students from many different schools around the state.
+
+Check out the demo of the application [here](http://mathwithfriends.meteorapp.com/).
+Check out the current project page [here](https://github.com/math-with-friends/math-with-friends/projects/2).
+
+# User Guide
 
 Players can join or create a lobby, which is a temporary place for players to gather before they start the game.
 
@@ -39,7 +54,25 @@ Players can fly across the map simultaneously, while passing through quiz proble
 
 ![](images/main_idea.png)
 
-# Installation
+# Community Feedback
+
+We had 5 UH students from different backgrounds (e.g. ICS, Biology, Psychology) test out the application.
+
+Positive impressions:
+- Cute pictures.
+- UI looks friendly, almost like hand-writing in composition book.
+- Has a lot of potential to grow big.
+- Seeing characters move in real-time is cool.
+
+Suggestions:
+- Make it less laggy.
+- One player should not be able to open multiple browsers.
+- Need more difficult math problems.
+- Mix off-white colors with the current black and white UI design.
+
+# Development Guide
+
+## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -56,8 +89,6 @@ Fourth, run the system with:
 ```
 $ meteor run
 ```
-
-# Application Design
 
 ## Directory Structure
 
@@ -139,7 +170,21 @@ It is worth noting that we overshot our original goal of just creating the mock-
 
 As a result of the efforts put into Milestone 2, the following were accomplished:
 
-- Implemented user-profile page for user selection of icon.
+- Implement CAS login.
+
+- Implement reliable ping system to determine when user has disconnected.
+
+- Update lobby page to include chat, users online, profile view and fully functional lobby list component.
+
+- Update channel page to include chat, players list, and controls components.
+
+- Add working game play.
+
+- Improve user interface design.
+
+- Add application tutorial text.
+
+- Implement user-profile page for user selection of icon.
 
 # Contact Us
 

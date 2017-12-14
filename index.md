@@ -26,27 +26,52 @@ Check out the current project page [here](https://github.com/math-with-friends/m
 
 # User Guide
 
-Players can join or create a lobby, which is a temporary place for players to gather before they start the game.
+![](images/8.png)
 
-![](images/channel.png)
+This is the landing page. Press on the login button to start loading the application.
 
-![](images/lobby2.png)
+![](images/1.png)
 
-This is the lobby, which lists the players currently joined. When all of the players press ready, the game starts.
+This is the channel where you can interact with other players that are logged onto the application.
+The top left section is where the lobbies that are currently available to join will be listed.
+The top right section is your mini profile view. Bottom left is the chat, and bottom right is the users
+online view.
 
-![](images/lobby.png)
+![](images/2.png)
 
-Players can play the acutal game in real-time.
+If you need help understanding what does what, simply click on the toggle helper button to render
+tutorial texts on the screen.
 
-![](images/game.png)
+![](images/3.png)
 
-Landing page:
+When you click on the "Edit Profile" button, you are redirected to a screen where you can choose your
+favorite icon. This icon will represent your appearance in-game.
 
-![](images/landing.png)
+![](images/4.png)
 
-Profile page:
+Notice how your profile icon has now changed.
 
-![](images/profile.png)
+![](images/9.png)
+
+This is an example of a lobby that you can join. Click on the "Join" button to join the other players
+in that lobby. You can also make a brand new lobby by clicking on the "Create lobby" button.
+
+![](images/5.png)
+
+This is the lobby page. Nobody else can see this particular screen unless you are one of the players
+joined to that specific lobby. On the top you can see a list of players. Press on the "Ready" button
+to indicate that you are ready to play. When ever player has done this, the game will start.
+Otherwise, press on the "Exit" button to return to the channel.
+
+![](images/7.png)
+
+If you are lost, you can always toggle helper texts to guide you through the lobby interface as well.
+
+![](images/6.png)
+
+The game starts immediately when you join the game. Press the SPACEBAR on your keyboard to jump.
+You can see the movement of the characters of the other players in real-time. The game page also
+supports helper texts.
 
 ## Main Idea
 
